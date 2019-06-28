@@ -1,0 +1,1 @@
+[{"id":"85514baf.2c77f8","type":"function","z":"bd11b07b.b1912","name":"o/p parsing","func":"msg.payload=5+(3*msg.payload.values[0][0])\nreturn msg;","outputs":1,"noerr":0,"x":749.0000076293945,"y":269.99999141693115,"wires":[["862b86aa.ed2bf8","caf80efa.84a38","dec10e5.bb835f"]]}]
